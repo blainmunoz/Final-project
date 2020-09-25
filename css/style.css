@@ -1,4 +1,4 @@
-.fa {
+  .fa {
     padding: 50px;
     font-size: 30px;
     width: 50px;
@@ -29,13 +29,15 @@
   li {
     display: inline;
     text-decoration: none;
+    padding: 20px;
+    columns: right;
   }
   
   a {
     text-decoration: none;
     color: red;
   }
-.font {
+
+ .font {
   font-family: 'Courier Prime', monospace;
 }
-  
